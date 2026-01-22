@@ -15,14 +15,13 @@ The Ichimoku-based strategy relies on the following core components:
 ## 📐 Ichimoku Indicator Formulas
 
 Let:
-- \( H_n \) = highest price over the last \( n \) periods  
-- \( L_n \) = lowest price over the last \( n \) periods  
+- High(n) = highest price over the last n periods
+- Low(n) = lowest price over the last n periods
+- Close(t) = closing price at time t
 
 ### 1. Tenkan-sen 
 
-\[
-\text{Tenkan-sen} = \frac{H_{9} + L_{9}}{2}
-\]
+Tenkan-sen = (H(9) + L(9)) / 2
 
 
 ### 2. Kijun-sen 
