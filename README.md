@@ -43,10 +43,12 @@ Senkou Span B = (High(52) + Low(52)) / 2, plotted 26 periods ahead
 
 ### 5. Kumo (Cloud)
 
-The **Kumo** is the area between **Senkou Span A** and **Senkou Span B**:
+The **Kumo** is the area between **Senkou Span A** and **Senkou Span B**.
 
  ### 6. Chikou Span 
 
 Chikou Span = Close(t), plotted 26 periods backward
 
+## :mailbox_closed: Contact
+For any information, feedback or questions, please [contact me][Mustafa-email]
 
