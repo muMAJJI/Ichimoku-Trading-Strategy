@@ -26,25 +26,20 @@ Tenkan-sen = (H(9) + L(9)) / 2
 
 ### 2. Kijun-sen 
 
-\[
-\text{Kijun-sen} = \frac{H_{26} + L_{26}}{2}
-\]
+Kijun-sen = (H(26) + L(26)) / 2
+
 
 
 ### 3. Senkou Span A
 
-\[
-\text{Senkou Span A} = \frac{\text{Tenkan-sen} + \text{Kijun-sen}}{2}
-\quad \text{(plotted 26 periods ahead)}
-\]
+Senkou Span A = (Tenkan-sen + Kijun-sen) / 2
+Plotted 26 periods ahead
  
 
 ### 4. Senkou Span B
 
-\[
-\text{Senkou Span B} = \frac{H_{52} + L_{52}}{2}
-\quad \text{(plotted 26 periods ahead)}
-\]
+Senkou Span B = (H(52) + L(52)) / 2
+Plotted 26 periods ahead
 
 
 
@@ -52,15 +47,9 @@ Tenkan-sen = (H(9) + L(9)) / 2
 
 The **Kumo** is the area between **Senkou Span A** and **Senkou Span B**:
 
-\[
-\text{Kumo} = \left[ \text{Senkou Span A}, \text{Senkou Span B} \right]
-\]
+ ### 6. Chikou Span 
 
- ### 6. Chikou Span (Lagging Span)
-
-\[
-\text{Chikou Span} = \text{Closing Price}_{t}
-\quad \text{(plotted 26 periods backward)}
-\]
+Chikou Span = Close(t)
+Plotted 26 periods backward
 
 
