@@ -19,35 +19,23 @@ Let:
 - Low(n) = lowest price over the last n periods
 - Close(t) = closing price at time t
 
-### 1. Tenkan-sen 
-
-Tenkan-sen = (High(9) + Low(9)) / 2
+### 1. Tenkan-sen = (High(9) + Low(9)) / 2
 
 
-### 2. Kijun-sen 
-
-Kijun-sen = (High(26) + Low(26)) / 2
+### 2. Kijun-sen = (High(26) + Low(26)) / 2
 
 
 
-### 3. Senkou Span A
-
-Senkou Span A = (Tenkan-sen + Kijun-sen) / 2, plotted 26 periods ahead
+### 3. Senkou Span A = (Tenkan-sen + Kijun-sen) / 2, plotted 26 periods ahead
  
 
-### 4. Senkou Span B
-
-Senkou Span B = (High(52) + Low(52)) / 2, plotted 26 periods ahead
+### 4. Senkou Span B = (High(52) + Low(52)) / 2, plotted 26 periods ahead
 
 
 
-### 5. Kumo (Cloud)
+### 5. Kumo (Cloud) is the area between **Senkou Span A** and **Senkou Span B**.
 
-The **Kumo** is the area between **Senkou Span A** and **Senkou Span B**.
-
- ### 6. Chikou Span 
-
-Chikou Span = Close(t), plotted 26 periods backward
+ ### 6. Chikou Span =Close(t), plotted 26 periods backward
 
 ## :mailbox_closed: Contact
 For any information, feedback or questions, please [contact me][Mustafa-email]
