@@ -21,12 +21,12 @@ Let:
 
 ### 1. Tenkan-sen 
 
-Tenkan-sen = (H(9) + L(9)) / 2
+Tenkan-sen = (High(9) + Low(9)) / 2
 
 
 ### 2. Kijun-sen 
 
-Kijun-sen = (H(26) + L(26)) / 2
+Kijun-sen = (High(26) + Low(26)) / 2
 
 
 
@@ -38,7 +38,7 @@ Plotted 26 periods ahead
 
 ### 4. Senkou Span B
 
-Senkou Span B = (H(52) + L(52)) / 2
+Senkou Span B = (High(52) + Low(52)) / 2
 Plotted 26 periods ahead
 
 
