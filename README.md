@@ -52,3 +52,7 @@ Chikou Span = Close(t), plotted 26 periods backward
 ## :mailbox_closed: Contact
 For any information, feedback or questions, please [contact me][Mustafa-email]
 
+
+
+
+[Mustafa-email]: mailto:majji1999@gmail.com
