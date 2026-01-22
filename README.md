@@ -32,14 +32,12 @@ Kijun-sen = (High(26) + Low(26)) / 2
 
 ### 3. Senkou Span A
 
-Senkou Span A = (Tenkan-sen + Kijun-sen) / 2
-Plotted 26 periods ahead
+Senkou Span A = (Tenkan-sen + Kijun-sen) / 2, plotted 26 periods ahead
  
 
 ### 4. Senkou Span B
 
-Senkou Span B = (High(52) + Low(52)) / 2
-Plotted 26 periods ahead
+Senkou Span B = (High(52) + Low(52)) / 2, plotted 26 periods ahead
 
 
 
@@ -49,7 +47,6 @@ The **Kumo** is the area between **Senkou Span A** and **Senkou Span B**:
 
  ### 6. Chikou Span 
 
-Chikou Span = Close(t)
-Plotted 26 periods backward
+Chikou Span = Close(t), plotted 26 periods backward
 
 
